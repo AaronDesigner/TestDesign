@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Share Car Ue</string>
+    <string name="select_picture_title">Pick Image</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="exit">¿Desea Salir de la Aplicación?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenida">Bienvenido a la aplicación</string>
+    <string name="controlCorreoLog">El correo no puede estar vacío</string>
+    <string name="controlContrasenaLog">La contraseña no puede estar vacía</string>
+    <string name="autentificacionFallida">Autentificación fallida</string>
+    <string name="controlEmailSig">E-Mail incorrecto</string>
+    <string name="controlUsuarioSig">Usuario incorrecto</string>
+    <string name="controlContrasena1Sig">La contraseña no puede tener menos de 8 caracteres</string>
+    <string name="controlContrasena2Sig">La contraseña tiene que ser alfanumerica y tener mayusculas y minusculas</string>
+    <string name="terminos">Hay que aceptar los terminos de uso</string>
+    <string name="correo">Correo:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="login">Entrar</string>
+    <string name="SignUp">Registrate</string>
+    <string name="olvido">¿Olvidaste tu contraseña?</string>
+    <string name="recordar">Recordar mis credenciales</string>
+    <string name="hintContra">Introduzca su Contraseña</string>
+    <string name="hintCorreo">Introduzca su Correo</string>
+    <string name="usuario">Usuario:</string>
+    <string name="hintUsu">Introduzca su usuario</string>
+</resources>
